@@ -24,7 +24,7 @@ annotation layers, which is useful for inspection.
 
 ```
 Giuseppe G. A. Celano. 2025. Opera Latina Adnotata (v0.2.0). Zenodo.
-https:  ...
+https:   ...
 ```
 
 ```
