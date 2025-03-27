@@ -1,0 +1,177 @@
+<!-- This file contains Latin abbreviations + their expansions -->
+<!-- Abbreviations: a = abbreviation, f = form, s= solution -->
+<list>
+  <a f="A.">
+    <s>Aulus</s>
+  </a>
+  <a f="Ap.">
+    <s>Appius</s>
+  </a>
+  <a f="Apr.">
+    <s>Aprilis</s>
+  </a>
+  <a f="April.">
+    <s>Aprilis</s>
+  </a>
+  <a f="C.">
+    <s>Gaius</s>
+  </a>
+  <a f="Chr.">
+    <s>Christum</s>
+  </a>
+  <a f="Cn.">
+    <s>Gnaeus</s>
+  </a>
+  <a f="D.">
+    <s>Decimus</s>
+    <s>Dicit</s>
+  </a>
+  <a f="Dec.">
+    <s>December</s>
+  </a>
+  <a f="Feb.">
+    <s>Februarius</s>
+  </a>
+  <a f="Febr.">
+    <s>Februarius</s>
+  </a>
+  <a f="Februar.">
+    <s>Februarius</s>
+  </a>
+  <a f="H.">
+    <s>Hoc</s>
+  </a> 
+  <a f="Ian.">
+    <s>Ianuarius</s>
+  </a>
+  <a f="Ianuar.">
+    <s>Ianuarius</s>
+  </a>
+  <a f="Id.">
+    <s>Ides</s>
+  </a>
+  <a f="Iun.">
+    <s>Iunius</s>
+  </a>
+  <a f="Jun.">
+    <s>Iunius</s>
+  </a>
+  <a f="K.">
+    <s>Kalendae</s>
+  </a>
+  <a f="Kal.">
+    <s>Kalendae</s>
+  </a>
+  <a f="Kalend.">
+    <s>Kalendae</s>
+  </a>
+  <a f="L.">
+    <s>Lucius</s>
+  </a>
+  <a f="M.">
+    <s>Marcus</s>
+  </a>
+  <a f="Mai.">
+    <s>Maius</s>
+  </a>
+  <a f="Mart.">
+    <s>Martius</s>
+  </a>
+  <a f="N.">
+    <s>Numerius</s>
+  </a>
+  <a f="Non.">
+    <s>Nones</s>
+  </a>
+  <a f="Nov.">
+    <s>November</s>
+  </a>
+  <a f="Novemb.">
+    <s>November</s>
+  </a>
+  <a f="Novembr.">
+    <s>November</s>
+  </a>
+  <a f="Oct.">
+    <s>October</s>
+  </a>
+  <a f="Octobr.">
+    <s>October</s>
+  </a>
+  <a f="P.">
+    <s>Publius</s>
+  </a>
+  <a f="Q.">
+    <s>Quintus</s>
+  </a>
+  <a f="Quint.">
+    <s>Quintilis</s>
+  </a>
+  <a f="Quintil.">
+    <s>Quintilis</s>
+  </a>
+  <a f="R.">
+    <s>Romanus</s>
+  </a>
+  <a f="S.">
+    <s>Salutem</s>
+  </a>
+  <a f="Sept.">
+    <s>September</s>
+  </a>
+  <a f="Ser.">
+    <s>Servius</s>
+  </a>
+  <a f="Sex.">
+    <s>Sextus</s>
+  </a>
+  <a f="Sext.">
+    <s>Sextilis</s>
+  </a>
+  <a f="Sextil.">
+    <s>Sextilis</s>
+  </a>
+  <a f="Sp.">
+    <s>Spurius</s>
+  </a>
+  <a f="T.">
+    <s>Titus</s>
+  </a>
+  <a f="Ti.">
+    <s>Tiberius</s>
+  </a>
+  <a f="a.">
+    <s>ante</s>
+    <s>ab</s>
+  </a>
+  <a f="c.">
+    <s>condita</s>
+  </a>
+  <a f="d.">
+    <s>diem</s>
+  </a>
+  <a f="id.">
+    <s>idus</s>
+  </a>
+  <a f="kal.">
+    <s>kalendae</s>
+  </a>
+  <a f="p.">
+    <s>publica</s>
+  </a>
+  <a f="pl.">
+    <s>plebs</s>
+  </a>
+  <a f="pr.">
+    <s>praetor</s>
+  </a>
+  <a f="prid.">
+    <s>pridem</s>
+  </a>
+  <a f="tr.">
+    <s>tribunus</s>
+  </a>
+  <a f="u.">
+    <s>urbe</s>
+  </a>
+</list>

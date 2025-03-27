@@ -1,0 +1,1679 @@
+<!-- This list contains Latin graphic words most of which which end in 
+     "-que" (and their tokenization is particular, such as "circum/quaque") 
+     or "-one/-ine" and should be tokenized; if they do not end in
+     "-que" or "-one/-ine", their tokenization is into three tokens.
+     The capitalized form of each word and the double spelling 
+     with u/v are given.
+-->
+<!-- Abbreviations: w = word, f = form, t = token, s = offset of the
+     initial character, l = length of the string.
+-->
+<list>
+<w f="Adeone">
+  <t s="1" l="4">Adeo</t>
+  <t s="5" l="2">ne</t>
+</w>
+<w f="Adhuccine">
+  <t s="1" l="7">Adhucci</t>
+  <t s="8" l="2">ne</t>
+</w>
+<w f="Adversine">
+  <t s="1" l="7">Adversi</t>
+  <t s="8" l="2">ne</t>
+</w>
+<w f="Aine">
+  <t s="1" l="2">Ai</t>
+  <t s="3" l="2">ne</t>
+</w>
+<w f="Anteaquam">
+  <t s="1" l="5">Antea</t>
+  <t s="6" l="4">quam</t>
+</w>
+<w f="Antequam">
+  <t s="1" l="4">Ante</t>
+  <t s="5" l="4">quam</t>
+</w>
+<w f="Ascanione">
+  <t s="1" l="7">Ascanio</t>
+  <t s="8" l="2">ne</t>
+</w>
+<w f="Attamen">
+  <t s="1" l="2">At</t>
+  <t s="3" l="5">tamen</t>
+</w>
+<w f="Audistine">
+  <t s="1" l="7">Audisti</t>
+  <t s="8" l="2">ne</t>
+</w>
+<w f="Boníne">
+  <t s="1" l="4">Boní</t>
+  <t s="5" l="2">ne</t>
+</w>
+<w f="Brundisione">
+  <t s="1" l="9">Brundisio</t>
+  <t s="10" l="2">ne</t>
+</w>
+<w f="Circumquaque">
+  <t s="1" l="6">Circum</t>
+  <t s="7" l="6">quaque</t>
+</w>
+<w f="Circumundique">
+  <t s="1" l="6">Circum</t>
+  <t s="7" l="7">undique</t>
+</w>
+<w f="Dedistíne">
+  <t s="1" l="7">Dedistí</t>
+  <t s="8" l="2">ne</t>
+</w>
+<w f="Dixine">
+  <t s="1" l="4">Dixi</t>
+  <t s="5" l="2">ne</t>
+</w>
+<w f="Dixtine">
+  <t s="1" l="5">Dixti</t>
+  <t s="6" l="2">ne</t>
+</w>
+<w f="Dummodo">
+  <t s="1" l="3">Dum</t>
+  <t s="4" l="4">modo</t>
+</w>
+<w f="Ecquandone">
+  <t s="1" l="8">Ecquando</t>
+  <t s="9" l="2">ne</t>
+</w>
+<w f="Egone">
+  <t s="1" l="3">Ego</t>
+  <t s="4" l="2">ne</t>
+</w>
+<w f="Eine">
+  <t s="1" l="2">Ei</t>
+  <t s="3" l="2">ne</t>
+</w>
+<w f="Emine">
+  <t s="1" l="3">Emi</t>
+  <t s="4" l="2">ne</t>
+</w>
+<w f="Enimuero">
+  <t s="1" l="4">Enim</t>
+  <t s="5" l="4">uero</t>
+</w>
+<w f="Enimvero">
+  <t s="1" l="4">Enim</t>
+  <t s="5" l="4">vero</t>
+</w>
+<w f="Ergone">
+  <t s="1" l="4">Ergo</t>
+  <t s="5" l="2">ne</t>
+</w>
+<w f="Etiamnunc">
+  <t s="1" l="5">Etiam</t>
+  <t s="6" l="4">nunc</t>
+</w>
+<w f="Etiamsi">
+  <t s="1" l="5">Etiam</t>
+  <t s="6" l="2">si</t>
+</w>
+<w f="Etjamnunc">
+  <t s="1" l="5">Etjam</t>
+  <t s="6" l="4">nunc</t>
+</w>
+<w f="Etjamsi">
+  <t s="1" l="5">Etjam</t>
+  <t s="6" l="2">si</t>
+</w>
+<w f="Etsi">
+  <t s="1" l="2">Et</t>
+  <t s="3" l="2">si</t>
+</w>
+<w f="Fierine">
+  <t s="1" l="5">Fieri</t>
+  <t s="6" l="2">ne</t>
+</w>
+<w f="Fontine">
+  <t s="1" l="5">Fonti</t>
+  <t s="6" l="2">ne</t>
+</w>
+<w f="Haccine">
+  <t s="1" l="5">Hacci</t>
+  <t s="6" l="2">ne</t>
+</w>
+<w f="Hacine">
+  <t s="1" l="4">Haci</t>
+  <t s="5" l="2">ne</t>
+</w>
+<w f="Haeccine">
+  <t s="1" l="6">Haecci</t>
+  <t s="7" l="2">ne</t>
+</w>
+<w f="Haecine">
+  <t s="1" l="5">Haeci</t>
+  <t s="6" l="2">ne</t>
+</w>
+<w f="Hancine">
+  <t s="1" l="5">Hanci</t>
+  <t s="6" l="2">ne</t>
+</w>
+<w f="Hancíne">
+  <t s="1" l="5">Hancí</t>
+  <t s="6" l="2">ne</t>
+</w>
+<w f="Hascine">
+  <t s="1" l="5">Hasci</t>
+  <t s="6" l="2">ne</t>
+</w>
+<w f="Haécine">
+  <t s="1" l="5">Haéci</t>
+  <t s="6" l="2">ne</t>
+</w>
+<w f="Hiccine">
+  <t s="1" l="5">Hicci</t>
+  <t s="6" l="2">ne</t>
+</w>
+<w f="Hicine">
+  <t s="1" l="4">Hici</t>
+  <t s="5" l="2">ne</t>
+</w>
+<w f="Hiscine">
+  <t s="1" l="5">Hisci</t>
+  <t s="6" l="2">ne</t>
+</w>
+<w f="Hoccine">
+  <t s="1" l="5">Hocci</t>
+  <t s="6" l="2">ne</t>
+</w>
+<w f="Hocin">
+  <t s="1" l="4">Hoci</t>
+  <t s="5" l="1">n</t>
+</w>
+<w f="Hocine">
+  <t s="1" l="4">Hoci</t>
+  <t s="5" l="2">ne</t>
+</w>
+<w f="Hoscine">
+  <t s="1" l="5">Hosci</t>
+  <t s="6" l="2">ne</t>
+</w>
+<w f="Hucine">
+  <t s="1" l="4">Huci</t>
+  <t s="5" l="2">ne</t>
+</w>
+<w f="Hucusque">
+  <t s="1" l="3">Huc</t>
+  <t s="4" l="5">usque</t>
+</w>
+<w f="Huicine">
+  <t s="1" l="5">Huici</t>
+  <t s="6" l="2">ne</t>
+</w>
+<w f="Hunccine">
+  <t s="1" l="6">Huncci</t>
+  <t s="7" l="2">ne</t>
+</w>
+<w f="Huncine">
+  <t s="1" l="5">Hunci</t>
+  <t s="6" l="2">ne</t>
+</w>
+<w f="Hícine">
+  <t s="1" l="4">Híci</t>
+  <t s="5" l="2">ne</t>
+</w>
+<w f="Hócine">
+  <t s="1" l="4">Hóci</t>
+  <t s="5" l="2">ne</t>
+</w>
+<w f="Hócine">
+  <t s="1" l="4">Hóci</t>
+  <t s="5" l="2">ne</t>
+</w>
+<w f="Húncine">
+  <t s="1" l="5">Húnci</t>
+  <t s="6" l="2">ne</t>
+</w>
+<w f="Iamiamque">
+  <t s="1" l="3">Iam</t>
+  <t s="4" l="3">iam</t>
+  <t s="7" l="3">que</t>
+</w>
+<w f="Idcircone">
+  <t s="1" l="7">Idcirco</t>
+  <t s="8" l="2">ne</t>
+</w>
+<w f="Ideone">
+  <t s="1" l="4">Ideo</t>
+  <t s="5" l="2">ne</t>
+</w>
+<w f="Ilicone">
+  <t s="1" l="5">Ilico</t>
+  <t s="6" l="2">ne</t>
+</w>
+<w f="Iliscine">
+  <t s="1" l="6">Ilisci</t>
+  <t s="7" l="2">ne</t>
+</w>
+<w f="Inusque">
+  <t s="1" l="2">In</t>
+  <t s="3" l="5">usque</t>
+</w>
+<w f="Istacine">
+  <t s="1" l="6">Istaci</t>
+  <t s="7" l="2">ne</t>
+</w>
+<w f="Isticine">
+  <t s="1" l="6">Istici</t>
+  <t s="7" l="2">ne</t>
+</w>
+<w f="Istocin">
+  <t s="1" l="6">Istoci</t>
+  <t s="7" l="1">n</t>
+</w>
+<w f="Istocine">
+  <t s="1" l="6">Istoci</t>
+  <t s="7" l="2">ne</t>
+</w>
+<w f="Istoscine">
+  <t s="1" l="7">Istosci</t>
+  <t s="8" l="2">ne</t>
+</w>
+<w f="Istucin">
+  <t s="1" l="6">Istuci</t>
+  <t s="7" l="1">n</t>
+</w>
+<w f="Istucine">
+  <t s="1" l="6">Istuci</t>
+  <t s="7" l="2">ne</t>
+</w>
+<w f="Istucinest">
+  <t s="1" l="6">Istuci</t>
+  <t s="7" l="1">n</t>
+  <t s="8" l="3">est</t>
+</w>
+<w f="Istúcine">
+  <t s="1" l="6">Istúci</t>
+  <t s="7" l="2">ne</t>
+</w>
+<w f="Jamjamque">
+  <t s="1" l="3">Jam</t>
+  <t s="4" l="3">jam</t>
+  <t s="7" l="3">que</t>
+</w>
+<w f="Laudine">
+  <t s="1" l="5">Laudi</t>
+  <t s="6" l="2">ne</t>
+</w>
+<w f="Libycone">
+  <t s="1" l="6">Libyco</t>
+  <t s="7" l="2">ne</t>
+</w>
+<w f="Mecum">
+  <t s="1" l="2">Me</t>
+  <t s="3" l="3">cum</t>
+</w>
+<w f="Meministine">
+  <t s="1" l="9">Meministi</t>
+  <t s="10" l="2">ne</t>
+</w>
+<w f="Mihine">
+  <t s="1" l="4">Mihi</t>
+  <t s="5" l="2">ne</t>
+</w>
+<w f="Misine">
+  <t s="1" l="4">Misi</t>
+  <t s="5" l="2">ne</t>
+</w>
+<w f="Nec">
+  <t s="1" l="2">Ne</t>
+  <t s="3" l="1">c</t>
+</w>
+<w f="Nehicine">
+  <t s="1" l="6">Nehici</t>
+  <t s="7" l="2">ne</t>
+</w>
+<w f="Nemone">
+  <t s="1" l="4">Nemo</t>
+  <t s="5" l="2">ne</t>
+</w>
+<w f="Nequa">
+  <t s="1" l="2">Ne</t>
+  <t s="3" l="3">qua</t>
+</w>
+<w f="Nequae">
+  <t s="1" l="2">Ne</t>
+  <t s="3" l="4">quae</t>
+</w>
+<w f="Nequas">
+  <t s="1" l="2">Ne</t>
+  <t s="3" l="4">quas</t>
+</w>
+<w f="Nequem">
+  <t s="1" l="2">Ne</t>
+  <t s="3" l="4">quem</t>
+</w>
+<w f="Nequi">
+  <t s="1" l="2">Ne</t>
+  <t s="3" l="3">qui</t>
+</w>
+<w f="Nequid">
+  <t s="1" l="2">Ne</t>
+  <t s="3" l="4">quid</t>
+</w>
+<w f="Nequis">
+  <t s="1" l="2">Ne</t>
+  <t s="3" l="4">quis</t>
+</w>
+<w f="Nequo">
+  <t s="1" l="2">Ne</t>
+  <t s="3" l="3">quo</t>
+</w>
+<w f="Nequod">
+  <t s="1" l="2">Ne</t>
+  <t s="3" l="4">quod</t>
+</w>
+<w f="Nequos">
+  <t s="1" l="2">Ne</t>
+  <t s="3" l="4">quos</t>
+</w>
+<w f="Neu">
+  <t s="1" l="2">Ne</t>
+  <t s="3" l="1">u</t>
+</w>
+<w f="Neutique">
+  <t s="1" l="2">Ne</t>
+  <t s="3" l="6">utique</t>
+</w>
+<w f="Nihilominus">
+  <t s="1" l="6">Nihilo</t>
+  <t s="7" l="5">minus</t>
+</w>
+<w f="Nihilosetus">
+  <t s="1" l="6">Nihilo</t>
+  <t s="7" l="5">setus</t>
+</w>
+<w f="Nobiscum">
+  <t s="1" l="5">Nobis</t>
+  <t s="6" l="3">cum</t>
+</w>
+<w f="Nostine">
+  <t s="1" l="5">Nosti</t>
+  <t s="6" l="2">ne</t>
+</w>
+<w f="Novistine">
+  <t s="1" l="7">Novisti</t>
+  <t s="8" l="2">ne</t>
+</w>
+<w f="Numqua">
+  <t s="1" l="3">Num</t>
+  <t s="4" l="3">qua</t>
+</w>
+<w f="Numquae">
+  <t s="1" l="3">Num</t>
+  <t s="4" l="4">quae</t>
+</w>
+<w f="Numquem">
+  <t s="1" l="3">Num</t>
+  <t s="4" l="4">quem</t>
+</w>
+<w f="Numqui">
+  <t s="1" l="3">Num</t>
+  <t s="4" l="3">qui</t>
+</w>
+<w f="Numquid">
+  <t s="1" l="3">Num</t>
+  <t s="4" l="4">quid</t>
+</w>
+<w f="Numquis">
+  <t s="1" l="3">Num</t>
+  <t s="4" l="4">quis</t>
+</w>
+<w f="Numquod">
+  <t s="1" l="3">Num</t>
+  <t s="4" l="4">quod</t>
+</w>
+<w f="Nuncusque">
+  <t s="1" l="4">Nunc</t>
+  <t s="5" l="5">usque</t>
+</w>
+<w f="Posteaquam">
+  <t s="1" l="6">Postea</t>
+  <t s="7" l="4">quam</t>
+</w>
+<w f="Postquam">
+  <t s="1" l="4">Post</t>
+  <t s="5" l="4">quam</t>
+</w>
+<w f="Postulone">
+  <t s="1" l="7">Postulo</t>
+  <t s="8" l="2">ne</t>
+</w>
+<w f="Poterone">
+  <t s="1" l="6">Potero</t>
+  <t s="7" l="2">ne</t>
+</w>
+<w f="Potine">
+  <t s="1" l="4">Poti</t>
+  <t s="5" l="2">ne</t>
+</w>
+<w f="Priusquam">
+  <t s="1" l="5">Prius</t>
+  <t s="6" l="4">quam</t>
+</w>
+<w f="Prjusquam">
+  <t s="1" l="5">Prjus</t>
+  <t s="6" l="4">quam</t>
+</w>
+<w f="Pudorine">
+  <t s="1" l="6">Pudori</t>
+  <t s="7" l="2">ne</t>
+</w>
+<w f="Purgone">
+  <t s="1" l="5">Purgo</t>
+  <t s="6" l="2">ne</t>
+</w>
+<w f="Pótine">
+  <t s="1" l="4">Póti</t>
+  <t s="5" l="2">ne</t>
+</w>
+<w f="Quacum">
+  <t s="1" l="3">Qua</t>
+  <t s="4" l="3">cum</t>
+</w>
+<w f="Quamdiu">
+  <t s="1" l="4">Quam</t>
+  <t s="5" l="3">diu</t>
+</w>
+<w f="Quamobrem">
+  <t s="1" l="4">Quam</t>
+  <t s="5" l="2">ob</t>
+  <t s="7" l="3">rem</t>
+</w>
+<w f="Quandoquidem">
+  <t s="1" l="6">Quando</t>
+  <t s="7" l="6">quidem</t>
+</w>
+<w f="Quantopere">
+  <t s="1" l="5">Quant</t>
+  <t s="6" l="5">opere</t>
+</w>
+<w f="Quapropter">
+  <t s="1" l="3">Qua</t>
+  <t s="4" l="7">propter</t>
+</w>
+<w f="Quare">
+  <t s="1" l="3">Qua</t>
+  <t s="4" l="2">re</t>
+</w>
+<w f="Quemadmodum">
+  <t s="1" l="4">Quem</t>
+  <t s="5" l="2">ad</t>
+  <t s="7" l="5">modum</t>
+</w>
+<w f="Quibuscum">
+  <t s="1" l="6">Quibus</t>
+  <t s="7" l="3">cum</t>
+</w>
+<w f="Quicum">
+  <t s="1" l="3">Qui</t>
+  <t s="4" l="3">cum</t>
+</w>
+<w f="Quidni">
+  <t s="1" l="4">Quid</t>
+  <t s="5" l="2">ni</t>
+</w>
+<w f="Quoadusque">
+  <t s="1" l="5">Quoad</t>
+  <t s="6" l="5">usque</t>
+</w>
+<w f="Quocirca">
+  <t s="1" l="3">Quo</t>
+  <t s="4" l="5">circa</t>
+</w>
+<w f="Quocum">
+  <t s="1" l="3">Quo</t>
+  <t s="4" l="3">cum</t>
+</w>
+<w f="Quodnisi">
+  <t s="1" l="4">Quod</t>
+  <t s="5" l="4">nisi</t>
+</w>
+<w f="Quodquoniam">
+  <t s="1" l="4">Quod</t>
+  <t s="5" l="7">quoniam</t>
+</w>
+<w f="Quodsi">
+  <t s="1" l="4">Quod</t>
+  <t s="5" l="2">si</t>
+</w>
+<w f="Quominus">
+  <t s="1" l="3">Quo</t>
+  <t s="4" l="5">minus</t>
+</w>
+<w f="Quomodo">
+  <t s="1" l="3">Quo</t>
+  <t s="4" l="4">modo</t>
+</w>
+<w f="Quotusquisque">
+  <t s="1" l="6">Quotus</t>
+  <t s="7" l="7">quisque</t>
+</w>
+<w f="Quousque">
+  <t s="1" l="3">Quo</t>
+  <t s="4" l="5">usque</t>
+</w>
+<w f="Sanine">
+  <t s="1" l="4">Sani</t>
+  <t s="5" l="2">ne</t>
+</w>
+<w f="Satine">
+  <t s="1" l="4">Sati</t>
+  <t s="5" l="2">ne</t>
+</w>
+<w f="Scripsistine">
+  <t s="1" l="10">Scripsisti</t>
+  <t s="11" l="2">ne</t>
+</w>
+<w f="Secum">
+  <t s="1" l="2">Se</t>
+  <t s="3" l="3">cum</t>
+</w>
+<w f="Sedeone">
+  <t s="1" l="5">Sedeo</t>
+  <t s="6" l="2">ne</t>
+</w>
+<w f="Serione">
+  <t s="1" l="5">Serio</t>
+  <t s="6" l="2">ne</t>
+</w>
+<w f="Siccine">
+  <t s="1" l="5">Sicci</t>
+  <t s="6" l="2">ne</t>
+</w>
+<w f="Sicine">
+  <t s="1" l="4">Sici</t>
+  <t s="5" l="2">ne</t>
+</w>
+<w f="Sicui">
+  <t s="1" l="2">Si</t>
+  <t s="3" l="3">cui</t>
+</w>
+<w f="Siqua">
+  <t s="1" l="2">Si</t>
+  <t s="3" l="3">qua</t>
+</w>
+<w f="Siquae">
+  <t s="1" l="2">Si</t>
+  <t s="3" l="4">quae</t>
+</w>
+<w f="Siquam">
+  <t s="1" l="2">Si</t>
+  <t s="3" l="4">quam</t>
+</w>
+<w f="Siquas">
+  <t s="1" l="2">Si</t>
+  <t s="3" l="4">quas</t>
+</w>
+<w f="Siquem">
+  <t s="1" l="2">Si</t>
+  <t s="3" l="4">quem</t>
+</w>
+<w f="Siqui">
+  <t s="1" l="2">Si</t>
+  <t s="3" l="3">qui</t>
+</w>
+<w f="Siquid">
+  <t s="1" l="2">Si</t>
+  <t s="3" l="4">quid</t>
+</w>
+<w f="Siquidem">
+  <t s="1" l="2">Si</t>
+  <t s="3" l="6">quidem</t>
+</w>
+<w f="Siquis">
+  <t s="1" l="2">Si</t>
+  <t s="3" l="4">quis</t>
+</w>
+<w f="Siquo">
+  <t s="1" l="2">Si</t>
+  <t s="3" l="3">quo</t>
+</w>
+<w f="Siquod">
+  <t s="1" l="2">Si</t>
+  <t s="3" l="4">quod</t>
+</w>
+<w f="Siquos">
+  <t s="1" l="2">Si</t>
+  <t s="3" l="4">quos</t>
+</w>
+<w f="Somnóne">
+  <t s="1" l="5">Somnó</t>
+  <t s="6" l="2">ne</t>
+</w>
+<w f="Sérione">
+  <t s="1" l="5">Sério</t>
+  <t s="6" l="2">ne</t>
+</w>
+<w f="Sícine">
+  <t s="1" l="4">Síci</t>
+  <t s="5" l="2">ne</t>
+</w>
+<w f="Tamenetsi">
+  <t s="1" l="5">Tamen</t>
+  <t s="6" l="2">et</t>
+  <t s="8" l="2">si</t>
+</w>
+<w f="Tametsi">
+  <t s="1" l="3">Tam</t>
+  <t s="4" l="2">et</t>
+  <t s="6" l="2">si</t>
+</w>
+<w f="Tamine">
+  <t s="1" l="4">Tami</t>
+  <t s="5" l="2">ne</t>
+</w>
+<w f="Tantopere">
+  <t s="1" l="4">Tant</t>
+  <t s="5" l="5">opere</t>
+</w>
+<w f="Tantummodo">
+  <t s="1" l="6">Tantum</t>
+  <t s="7" l="4">modo</t>
+</w>
+<w f="Tecum">
+  <t s="1" l="2">Te</t>
+  <t s="3" l="3">cum</t>
+</w>
+<w f="Teneone">
+  <t s="1" l="5">Teneo</t>
+  <t s="6" l="2">ne</t>
+</w>
+<w f="Tibine">
+  <t s="1" l="4">Tibi</t>
+  <t s="5" l="2">ne</t>
+</w>
+<w f="Tuquidem">
+  <t s="1" l="2">Tu</t>
+  <t s="3" l="6">quidem</t>
+</w>
+<w f="Tutin">
+  <t s="1" l="4">Tuti</t>
+  <t s="5" l="1">n</t>
+</w>
+<w f="Uerumenimuero">
+  <t s="1" l="5">Uerum</t>
+  <t s="6" l="4">enim</t>
+  <t s="10" l="4">uero</t>
+</w>
+<w f="Ulline">
+  <t s="1" l="4">Ulli</t>
+  <t s="5" l="2">ne</t>
+</w>
+<w f="Unamquamque">
+  <t s="1" l="4">Unam</t>
+  <t s="5" l="7">quamque</t>
+</w>
+<w f="Unaquaeque">
+  <t s="1" l="3">Una</t>
+  <t s="4" l="7">quaeque</t>
+</w>
+<w f="Unaquaque">
+  <t s="1" l="3">Una</t>
+  <t s="4" l="6">quaque</t>
+</w>
+<w f="Unicuique">
+  <t s="1" l="3">Uni</t>
+  <t s="4" l="6">cuique</t>
+</w>
+<w f="Uniuscuiusque">
+  <t s="1" l="5">Unius</t>
+  <t s="6" l="8">cuiusque</t>
+</w>
+<w f="Unoquoque">
+  <t s="1" l="3">Uno</t>
+  <t s="4" l="6">quoque</t>
+</w>
+<w f="Unumquemque">
+  <t s="1" l="4">Unum</t>
+  <t s="5" l="7">quemque</t>
+</w>
+<w f="Unumquicque">
+  <t s="1" l="4">Unum</t>
+  <t s="5" l="7">quicque</t>
+</w>
+<w f="Unumquidque">
+  <t s="1" l="4">Unum</t>
+  <t s="5" l="7">quidque</t>
+</w>
+<w f="Unumquodque">
+  <t s="1" l="4">Unum</t>
+  <t s="5" l="7">quodque</t>
+</w>
+<w f="Unusquisque">
+  <t s="1" l="4">Unus</t>
+  <t s="5" l="7">quisque</t>
+</w>
+<w f="Usquequaque">
+  <t s="1" l="5">Usque</t>
+  <t s="6" l="6">quaque</t>
+</w>
+<w f="Utine">
+  <t s="1" l="3">Uti</t>
+  <t s="4" l="2">ne</t>
+</w>
+<w f="Utpote">
+  <t s="1" l="2">Ut</t>
+  <t s="3" l="4">pote</t>
+</w>
+<w f="Utíne">
+  <t s="1" l="3">Utí</t>
+  <t s="4" l="2">ne</t>
+</w>
+<w f="Venerine">
+  <t s="1" l="6">Veneri</t>
+  <t s="7" l="2">ne</t>
+</w>
+<w f="Venistine">
+  <t s="1" l="7">Venisti</t>
+  <t s="8" l="2">ne</t>
+</w>
+<w f="Verumenimuero">
+  <t s="1" l="5">Verum</t>
+  <t s="6" l="4">enim</t>
+  <t s="10" l="4">uero</t>
+</w>
+<w f="Verumenimvero">
+  <t s="1" l="5">Verum</t>
+  <t s="6" l="4">enim</t>
+  <t s="10" l="4">vero</t>
+</w>
+<w f="Videone">
+  <t s="1" l="5">Video</t>
+  <t s="6" l="2">ne</t>
+</w>
+<w f="Vidine">
+  <t s="1" l="4">Vidi</t>
+  <t s="5" l="2">ne</t>
+</w>
+<w f="Vidistine">
+  <t s="1" l="7">Vidisti</t>
+  <t s="8" l="2">ne</t>
+</w>
+<w f="Vlline">
+  <t s="1" l="4">Ulli</t>
+  <t s="5" l="2">ne</t>
+</w>
+<w f="Vnamquamque">
+  <t s="1" l="4">Vnam</t>
+  <t s="5" l="7">quamque</t>
+</w>
+<w f="Vnaquaeque">
+  <t s="1" l="3">Vna</t>
+  <t s="4" l="7">quaeque</t>
+</w>
+<w f="Vnaquaque">
+  <t s="1" l="3">Vna</t>
+  <t s="4" l="6">quaque</t>
+</w>
+<w f="Vnicuique">
+  <t s="1" l="3">Vni</t>
+  <t s="4" l="6">cuique</t>
+</w>
+<w f="Vniuscuisque">
+  <t s="1" l="5">Vnius</t>
+  <t s="6" l="8">cuiusque</t>
+</w>
+<w f="Vnoquoque">
+  <t s="1" l="3">Vno</t>
+  <t s="4" l="6">quoque</t>
+</w>
+<w f="Vnumquemque">
+  <t s="1" l="4">Vnum</t>
+  <t s="5" l="7">quemque</t>
+</w>
+<w f="Vnumquicque">
+  <t s="1" l="4">Vnum</t>
+  <t s="5" l="7">quicque</t>
+</w>
+<w f="Vnumquidque">
+  <t s="1" l="4">Vnum</t>
+  <t s="5" l="7">quidque</t>
+</w>
+<w f="Vnumquodque">
+  <t s="1" l="4">Vnum</t>
+  <t s="5" l="7">quodque</t>
+</w>
+<w f="Vnusquisque">
+  <t s="1" l="4">Vnus</t>
+  <t s="5" l="7">quisque</t>
+</w>
+<w f="Vobiscum">
+  <t s="1" l="5">Vobis</t>
+  <t s="6" l="3">cum</t>
+</w>
+<w f="Vsquequaque">
+  <t s="1" l="5">Vsque</t>
+  <t s="6" l="6">quaque</t>
+</w>
+<w f="Vtine">
+  <t s="1" l="3">Uti</t>
+  <t s="4" l="2">ne</t>
+</w>
+<w f="Vtpote">
+  <t s="1" l="2">Vt</t>
+  <t s="3" l="4">pote</t>
+</w>
+<w f="Vtíne">
+  <t s="1" l="3">Vtí</t>
+  <t s="4" l="2">ne</t>
+</w>
+<w f="adeone">
+  <t s="1" l="4">adeo</t>
+  <t s="5" l="2">ne</t>
+</w>
+<w f="adhuccine">
+  <t s="1" l="7">adhucci</t>
+  <t s="8" l="2">ne</t>
+</w>
+<w f="adversine">
+  <t s="1" l="7">adversi</t>
+  <t s="8" l="2">ne</t>
+</w>
+<w f="aine">
+  <t s="1" l="2">ai</t>
+  <t s="3" l="2">ne</t>
+</w>
+<w f="anteaquam">
+  <t s="1" l="5">antea</t>
+  <t s="6" l="4">quam</t>
+</w>
+<w f="antequam">
+  <t s="1" l="4">ante</t>
+  <t s="5" l="4">quam</t>
+</w>
+<w f="ascanione">
+  <t s="1" l="7">ascanio</t>
+  <t s="8" l="2">ne</t>
+</w>
+<w f="attamen">
+  <t s="1" l="2">at</t>
+  <t s="3" l="5">tamen</t>
+</w>
+<w f="audistine">
+  <t s="1" l="7">audisti</t>
+  <t s="8" l="2">ne</t>
+</w>
+<w f="boníne">
+  <t s="1" l="4">boní</t>
+  <t s="5" l="2">ne</t>
+</w>
+<w f="brundisione">
+  <t s="1" l="9">brundisio</t>
+  <t s="10" l="2">ne</t>
+</w>
+<w f="circumquaque">
+  <t s="1" l="6">circum</t>
+  <t s="7" l="6">quaque</t>
+</w>
+<w f="circumundique">
+  <t s="1" l="6">circum</t>
+  <t s="7" l="7">undique</t>
+</w>
+<w f="dedistíne">
+  <t s="1" l="7">dedistí</t>
+  <t s="8" l="2">ne</t>
+</w>
+<w f="dixine">
+  <t s="1" l="4">dixi</t>
+  <t s="5" l="2">ne</t>
+</w>
+<w f="dixtine">
+  <t s="1" l="5">dixti</t>
+  <t s="6" l="2">ne</t>
+</w>
+<w f="dummodo">
+  <t s="1" l="3">dum</t>
+  <t s="4" l="4">modo</t>
+</w>
+<w f="ecquandone">
+  <t s="1" l="8">ecquando</t>
+  <t s="9" l="2">ne</t>
+</w>
+<w f="egone">
+  <t s="1" l="3">ego</t>
+  <t s="4" l="2">ne</t>
+</w>
+<w f="eine">
+  <t s="1" l="2">ei</t>
+  <t s="3" l="2">ne</t>
+</w>
+<w f="emine">
+  <t s="1" l="3">emi</t>
+  <t s="4" l="2">ne</t>
+</w>
+<w f="enimuero">
+  <t s="1" l="4">enim</t>
+  <t s="5" l="4">uero</t>
+</w>
+<w f="enimvero">
+  <t s="1" l="4">enim</t>
+  <t s="5" l="4">vero</t>
+</w>
+<w f="ergone">
+  <t s="1" l="4">ergo</t>
+  <t s="5" l="2">ne</t>
+</w>
+<w f="etiamnunc">
+  <t s="1" l="5">etiam</t>
+  <t s="6" l="4">nunc</t>
+</w>
+<w f="etiamsi">
+  <t s="1" l="5">etiam</t>
+  <t s="6" l="2">si</t>
+</w>
+<w f="etjamnunc">
+  <t s="1" l="5">etjam</t>
+  <t s="6" l="4">nunc</t>
+</w>
+<w f="etjamsi">
+  <t s="1" l="5">etjam</t>
+  <t s="6" l="2">si</t>
+</w>
+<w f="etsi">
+  <t s="1" l="2">et</t>
+  <t s="3" l="2">si</t>
+</w>
+<w f="fierine">
+  <t s="1" l="5">fieri</t>
+  <t s="6" l="2">ne</t>
+</w>
+<w f="fontine">
+  <t s="1" l="5">fonti</t>
+  <t s="6" l="2">ne</t>
+</w>
+<w f="haccine">
+  <t s="1" l="5">hacci</t>
+  <t s="6" l="2">ne</t>
+</w>
+<w f="hacine">
+  <t s="1" l="4">haci</t>
+  <t s="5" l="2">ne</t>
+</w>
+<w f="haeccine">
+  <t s="1" l="6">haecci</t>
+  <t s="7" l="2">ne</t>
+</w>
+<w f="haecine">
+  <t s="1" l="5">haeci</t>
+  <t s="6" l="2">ne</t>
+</w>
+<w f="hancine">
+  <t s="1" l="5">hanci</t>
+  <t s="6" l="2">ne</t>
+</w>
+<w f="hancíne">
+  <t s="1" l="5">hancí</t>
+  <t s="6" l="2">ne</t>
+</w>
+<w f="hascine">
+  <t s="1" l="5">hasci</t>
+  <t s="6" l="2">ne</t>
+</w>
+<w f="haécine">
+  <t s="1" l="5">haéci</t>
+  <t s="6" l="2">ne</t>
+</w>
+<w f="hiccine">
+  <t s="1" l="5">hicci</t>
+  <t s="6" l="2">ne</t>
+</w>
+<w f="hicine">
+  <t s="1" l="4">hici</t>
+  <t s="5" l="2">ne</t>
+</w>
+<w f="hiscine">
+  <t s="1" l="5">hisci</t>
+  <t s="6" l="2">ne</t>
+</w>
+<w f="hoccine">
+  <t s="1" l="5">hocci</t>
+  <t s="6" l="2">ne</t>
+</w>
+<w f="hocin">
+  <t s="1" l="4">hoci</t>
+  <t s="5" l="1">n</t>
+</w>
+<w f="hocine">
+  <t s="1" l="4">hoci</t>
+  <t s="5" l="2">ne</t>
+</w>
+<w f="hoscine">
+  <t s="1" l="5">hosci</t>
+  <t s="6" l="2">ne</t>
+</w>
+<w f="hucine">
+  <t s="1" l="4">huci</t>
+  <t s="5" l="2">ne</t>
+</w>
+<w f="hucusque">
+  <t s="1" l="3">huc</t>
+  <t s="4" l="5">usque</t>
+</w>
+<w f="huicine">
+  <t s="1" l="5">huici</t>
+  <t s="6" l="2">ne</t>
+</w>
+<w f="hunccine">
+  <t s="1" l="6">huncci</t>
+  <t s="7" l="2">ne</t>
+</w>
+<w f="huncine">
+  <t s="1" l="5">hunci</t>
+  <t s="6" l="2">ne</t>
+</w>
+<w f="hícine">
+  <t s="1" l="4">híci</t>
+  <t s="5" l="2">ne</t>
+</w>
+<w f="hócine">
+  <t s="1" l="4">hóci</t>
+  <t s="5" l="2">ne</t>
+</w>
+<w f="hócine">
+  <t s="1" l="4">hóci</t>
+  <t s="5" l="2">ne</t>
+</w>
+<w f="húncine">
+  <t s="1" l="5">húnci</t>
+  <t s="6" l="2">ne</t>
+</w>
+<w f="iamiamque">
+  <t s="1" l="3">iam</t>
+  <t s="4" l="3">iam</t>
+  <t s="7" l="3">que</t>
+</w>
+<w f="jamjamque">
+  <t s="1" l="3">jam</t>
+  <t s="4" l="3">jam</t>
+  <t s="7" l="3">que</t>
+</w>
+<w f="idcircone">
+  <t s="1" l="7">idcirco</t>
+  <t s="8" l="2">ne</t>
+</w>
+<w f="ideone">
+  <t s="1" l="4">ideo</t>
+  <t s="5" l="2">ne</t>
+</w>
+<w f="ilicone">
+  <t s="1" l="5">ilico</t>
+  <t s="6" l="2">ne</t>
+</w>
+<w f="iliscine">
+  <t s="1" l="6">ilisci</t>
+  <t s="7" l="2">ne</t>
+</w>
+<w f="inusque">
+  <t s="1" l="2">in</t>
+  <t s="3" l="5">usque</t>
+</w>
+<w f="istacine">
+  <t s="1" l="6">istaci</t>
+  <t s="7" l="2">ne</t>
+</w>
+<w f="isticine">
+  <t s="1" l="6">istici</t>
+  <t s="7" l="2">ne</t>
+</w>
+<w f="istocin">
+  <t s="1" l="6">istoci</t>
+  <t s="7" l="1">n</t>
+</w>
+<w f="istocine">
+  <t s="1" l="6">istoci</t>
+  <t s="7" l="2">ne</t>
+</w>
+<w f="istoscine">
+  <t s="1" l="7">istosci</t>
+  <t s="8" l="2">ne</t>
+</w>
+<w f="istucin">
+  <t s="1" l="6">istuci</t>
+  <t s="7" l="1">n</t>
+</w>
+<w f="istucine">
+  <t s="1" l="6">istuci</t>
+  <t s="7" l="2">ne</t>
+</w>
+<w f="istucinest">
+  <t s="1" l="6">istuci</t>
+  <t s="7" l="1">n</t>
+  <t s="8" l="3">est</t>
+</w>
+<w f="istúcine">
+  <t s="1" l="6">istúci</t>
+  <t s="7" l="2">ne</t>
+</w>
+<w f="jamjamque">
+  <t s="1" l="3">jam</t>
+  <t s="4" l="6">jamque</t>
+</w>
+<w f="laudine">
+  <t s="1" l="5">laudi</t>
+  <t s="6" l="2">ne</t>
+</w>
+<w f="libycone">
+  <t s="1" l="6">libyco</t>
+  <t s="7" l="2">ne</t>
+</w>
+<w f="mecum">
+  <t s="1" l="2">me</t>
+  <t s="3" l="3">cum</t>
+</w>
+<w f="meministine">
+  <t s="1" l="9">meministi</t>
+  <t s="10" l="2">ne</t>
+</w>
+<w f="mihine">
+  <t s="1" l="4">mihi</t>
+  <t s="5" l="2">ne</t>
+</w>
+<w f="misine">
+  <t s="1" l="4">misi</t>
+  <t s="5" l="2">ne</t>
+</w>
+<w f="nec">
+  <t s="1" l="2">ne</t>
+  <t s="3" l="1">c</t>
+</w>
+<w f="nehicine">
+  <t s="1" l="6">nehici</t>
+  <t s="7" l="2">ne</t>
+</w>
+<w f="nemone">
+  <t s="1" l="4">nemo</t>
+  <t s="5" l="2">ne</t>
+</w>
+<w f="nequa">
+  <t s="1" l="2">ne</t>
+  <t s="3" l="3">qua</t>
+</w>
+<w f="nequae">
+  <t s="1" l="2">ne</t>
+  <t s="3" l="4">quae</t>
+</w>
+<w f="nequas">
+  <t s="1" l="2">ne</t>
+  <t s="3" l="4">quas</t>
+</w>
+<w f="nequem">
+  <t s="1" l="2">ne</t>
+  <t s="3" l="4">quem</t>
+</w>
+<w f="nequi">
+  <t s="1" l="2">ne</t>
+  <t s="3" l="3">qui</t>
+</w>
+<w f="nequid">
+  <t s="1" l="2">ne</t>
+  <t s="3" l="4">quid</t>
+</w>
+<w f="nequis">
+  <t s="1" l="2">ne</t>
+  <t s="3" l="4">quis</t>
+</w>
+<w f="nequo">
+  <t s="1" l="2">ne</t>
+  <t s="3" l="3">quo</t>
+</w>
+<w f="nequod">
+  <t s="1" l="2">ne</t>
+  <t s="3" l="4">quod</t>
+</w>
+<w f="nequos">
+  <t s="1" l="2">ne</t>
+  <t s="3" l="4">quos</t>
+</w>
+<w f="neu">
+  <t s="1" l="2">ne</t>
+  <t s="3" l="1">u</t>
+</w>
+<w f="neutique">
+  <t s="1" l="2">ne</t>
+  <t s="3" l="6">utique</t>
+</w>
+<w f="nihilominus">
+  <t s="1" l="6">nihilo</t>
+  <t s="7" l="5">minus</t>
+</w>
+<w f="nihilosetus">
+  <t s="1" l="6">nihilo</t>
+  <t s="7" l="5">setus</t>
+</w>
+<w f="nobiscum">
+  <t s="1" l="5">nobis</t>
+  <t s="6" l="3">cum</t>
+</w>
+<w f="nostine">
+  <t s="1" l="5">nosti</t>
+  <t s="6" l="2">ne</t>
+</w>
+<w f="novistine">
+  <t s="1" l="7">novisti</t>
+  <t s="8" l="2">ne</t>
+</w>
+<w f="numqua">
+  <t s="1" l="3">num</t>
+  <t s="4" l="3">qua</t>
+</w>
+<w f="numquae">
+  <t s="1" l="3">num</t>
+  <t s="4" l="4">quae</t>
+</w>
+<w f="numquem">
+  <t s="1" l="3">num</t>
+  <t s="4" l="4">quem</t>
+</w>
+<w f="numqui">
+  <t s="1" l="3">num</t>
+  <t s="4" l="3">qui</t>
+</w>
+<w f="numquid">
+  <t s="1" l="3">num</t>
+  <t s="4" l="4">quid</t>
+</w>
+<w f="numquis">
+  <t s="1" l="3">num</t>
+  <t s="4" l="4">quis</t>
+</w>
+<w f="numquod">
+  <t s="1" l="3">num</t>
+  <t s="4" l="4">quod</t>
+</w>
+<w f="nuncusque">
+  <t s="1" l="4">nunc</t>
+  <t s="5" l="5">usque</t>
+</w>
+<w f="posteaquam">
+  <t s="1" l="6">postea</t>
+  <t s="7" l="4">quam</t>
+</w>
+<w f="postquam">
+  <t s="1" l="4">post</t>
+  <t s="5" l="4">quam</t>
+</w>
+<w f="postulone">
+  <t s="1" l="7">postulo</t>
+  <t s="8" l="2">ne</t>
+</w>
+<w f="poterone">
+  <t s="1" l="6">potero</t>
+  <t s="7" l="2">ne</t>
+</w>
+<w f="potine">
+  <t s="1" l="4">poti</t>
+  <t s="5" l="2">ne</t>
+</w>
+<w f="priusquam">
+  <t s="1" l="5">prius</t>
+  <t s="6" l="4">quam</t>
+</w>
+<w f="prjusquam">
+  <t s="1" l="5">prjus</t>
+  <t s="6" l="4">quam</t>
+</w>
+<w f="pudorine">
+  <t s="1" l="6">pudori</t>
+  <t s="7" l="2">ne</t>
+</w>
+<w f="purgone">
+  <t s="1" l="5">purgo</t>
+  <t s="6" l="2">ne</t>
+</w>
+<w f="pótine">
+  <t s="1" l="4">póti</t>
+  <t s="5" l="2">ne</t>
+</w>
+<w f="quacum">
+  <t s="1" l="3">qua</t>
+  <t s="4" l="3">cum</t>
+</w>
+<w f="quamdiu">
+  <t s="1" l="4">quam</t>
+  <t s="5" l="3">diu</t>
+</w>
+<w f="quamobrem">
+  <t s="1" l="4">quam</t>
+  <t s="5" l="2">ob</t>
+  <t s="7" l="3">rem</t>
+</w>
+<w f="quandoquidem">
+  <t s="1" l="6">quando</t>
+  <t s="7" l="6">quidem</t>
+</w>
+<w f="quantopere">
+  <t s="1" l="5">quant</t>
+  <t s="6" l="5">opere</t>
+</w>
+<w f="quapropter">
+  <t s="1" l="3">qua</t>
+  <t s="4" l="7">propter</t>
+</w>
+<w f="quare">
+  <t s="1" l="3">qua</t>
+  <t s="4" l="2">re</t>
+</w>
+<w f="quemadmodum">
+  <t s="1" l="4">quem</t>
+  <t s="5" l="2">ad</t>
+  <t s="7" l="5">modum</t>
+</w>
+<w f="quibuscum">
+  <t s="1" l="6">quibus</t>
+  <t s="7" l="3">cum</t>
+</w>
+<w f="quicum">
+  <t s="1" l="3">qui</t>
+  <t s="4" l="3">cum</t>
+</w>
+<w f="quidni">
+  <t s="1" l="4">quid</t>
+  <t s="5" l="2">ni</t>
+</w>
+<w f="quoadusque">
+  <t s="1" l="5">quoad</t>
+  <t s="6" l="5">usque</t>
+</w>
+<w f="quocirca">
+  <t s="1" l="3">quo</t>
+  <t s="4" l="5">circa</t>
+</w>
+<w f="quocum">
+  <t s="1" l="3">quo</t>
+  <t s="4" l="3">cum</t>
+</w>
+<w f="quodnisi">
+  <t s="1" l="4">quod</t>
+  <t s="5" l="4">nisi</t>
+</w>
+<w f="quodquoniam">
+  <t s="1" l="4">quod</t>
+  <t s="5" l="7">quoniam</t>
+</w>
+<w f="quodquonjam">
+  <t s="1" l="4">quod</t>
+  <t s="5" l="7">quonjam</t>
+</w>
+<w f="quodsi">
+  <t s="1" l="4">quod</t>
+  <t s="5" l="2">si</t>
+</w>
+<w f="quominus">
+  <t s="1" l="3">quo</t>
+  <t s="4" l="5">minus</t>
+</w>
+<w f="quomodo">
+  <t s="1" l="3">quo</t>
+  <t s="4" l="4">modo</t>
+</w>
+<w f="quotusquisque">
+  <t s="1" l="6">quotus</t>
+  <t s="7" l="7">quisque</t>
+</w>
+<w f="quousque">
+  <t s="1" l="3">quo</t>
+  <t s="4" l="5">usque</t>
+</w>
+<w f="satine">
+  <t s="1" l="4">sati</t>
+  <t s="5" l="2">ne</t>
+</w>
+<w f="scripsistine">
+  <t s="1" l="10">scripsisti</t>
+  <t s="11" l="2">ne</t>
+</w>
+<w f="secum">
+  <t s="1" l="2">se</t>
+  <t s="3" l="3">cum</t>
+</w>
+<w f="sedeone">
+  <t s="1" l="5">sedeo</t>
+  <t s="6" l="2">ne</t>
+</w>
+<w f="serione">
+  <t s="1" l="5">serio</t>
+  <t s="6" l="2">ne</t>
+</w>
+<w f="siccine">
+  <t s="1" l="5">sicci</t>
+  <t s="6" l="2">ne</t>
+</w>
+<w f="sicine">
+  <t s="1" l="4">sici</t>
+  <t s="5" l="2">ne</t>
+</w>
+<w f="sicui">
+  <t s="1" l="2">si</t>
+  <t s="3" l="3">cui</t>
+</w>
+<w f="siqua">
+  <t s="1" l="2">si</t>
+  <t s="3" l="3">qua</t>
+</w>
+<w f="siquae">
+  <t s="1" l="2">si</t>
+  <t s="3" l="4">quae</t>
+</w>
+<w f="siquam">
+  <t s="1" l="2">si</t>
+  <t s="3" l="4">quam</t>
+</w>
+<w f="siquas">
+  <t s="1" l="2">si</t>
+  <t s="3" l="4">quas</t>
+</w>
+<w f="siquem">
+  <t s="1" l="2">si</t>
+  <t s="3" l="4">quem</t>
+</w>
+<w f="siqui">
+  <t s="1" l="2">si</t>
+  <t s="3" l="3">qui</t>
+</w>
+<w f="siquid">
+  <t s="1" l="2">si</t>
+  <t s="3" l="4">quid</t>
+</w>
+<w f="siquidem">
+  <t s="1" l="2">si</t>
+  <t s="3" l="6">quidem</t>
+</w>
+<w f="siquis">
+  <t s="1" l="2">si</t>
+  <t s="3" l="4">quis</t>
+</w>
+<w f="siquo">
+  <t s="1" l="2">si</t>
+  <t s="3" l="3">quo</t>
+</w>
+<w f="siquod">
+  <t s="1" l="2">si</t>
+  <t s="3" l="4">quod</t>
+</w>
+<w f="siquos">
+  <t s="1" l="2">si</t>
+  <t s="3" l="4">quos</t>
+</w>
+<w f="somnóne">
+  <t s="1" l="5">somnó</t>
+  <t s="6" l="2">ne</t>
+</w>
+<w f="sérione">
+  <t s="1" l="5">sério</t>
+  <t s="6" l="2">ne</t>
+</w>
+<w f="sícine">
+  <t s="1" l="4">síci</t>
+  <t s="5" l="2">ne</t>
+</w>
+<w f="tamenetsi">
+  <t s="1" l="5">tamen</t>
+  <t s="6" l="2">et</t>
+  <t s="8" l="2">si</t>
+</w>
+<w f="tametsi">
+  <t s="1" l="3">tam</t>
+  <t s="4" l="2">et</t>
+  <t s="6" l="2">si</t>
+</w>
+<w f="tamine">
+  <t s="1" l="4">tami</t>
+  <t s="5" l="2">ne</t>
+</w>
+<w f="tantopere">
+  <t s="1" l="4">tant</t>
+  <t s="5" l="5">opere</t>
+</w>
+<w f="tantummodo">
+  <t s="1" l="6">tantum</t>
+  <t s="7" l="4">modo</t>
+</w>
+<w f="tecum">
+  <t s="1" l="2">te</t>
+  <t s="3" l="3">cum</t>
+</w>
+<w f="teneone">
+  <t s="1" l="5">teneo</t>
+  <t s="6" l="2">ne</t>
+</w>
+<w f="tibine">
+  <t s="1" l="4">tibi</t>
+  <t s="5" l="2">ne</t>
+</w>
+<w f="tuquidem">
+  <t s="1" l="2">tu</t>
+  <t s="3" l="6">quidem</t>
+</w>
+<w f="tutin">
+  <t s="1" l="4">tuti</t>
+  <t s="5" l="1">n</t>
+</w>
+<w f="uerumenimuero">
+  <t s="1" l="5">uerum</t>
+  <t s="6" l="4">enim</t>
+  <t s="10" l="4">uero</t>
+</w>
+<w f="ulline">
+  <t s="1" l="4">ulli</t>
+  <t s="5" l="2">ne</t>
+</w>
+<w f="unamquamque">
+  <t s="1" l="4">unam</t>
+  <t s="5" l="7">quamque</t>
+</w>
+<w f="unaquaeque">
+  <t s="1" l="3">una</t>
+  <t s="4" l="7">quaeque</t>
+</w>
+<w f="unaquaque">
+  <t s="1" l="3">una</t>
+  <t s="4" l="6">quaque</t>
+</w>
+<w f="unicuique">
+  <t s="1" l="3">uni</t>
+  <t s="4" l="6">cuique</t>
+</w>
+<w f="uniuscuiusque">
+  <t s="1" l="5">unius</t>
+  <t s="6" l="8">cuiusque</t>
+</w>
+<w f="uniuscujusque">
+  <t s="1" l="5">unius</t>
+  <t s="6" l="8">cujusque</t>
+</w>
+<w f="unoquoque">
+  <t s="1" l="3">uno</t>
+  <t s="4" l="6">quoque</t>
+</w>
+<w f="unumquemque">
+  <t s="1" l="4">unum</t>
+  <t s="5" l="7">quemque</t>
+</w>
+<w f="unumquicque">
+  <t s="1" l="4">unum</t>
+  <t s="5" l="7">quicque</t>
+</w>
+<w f="unumquidque">
+  <t s="1" l="4">unum</t>
+  <t s="5" l="7">quidque</t>
+</w>
+<w f="unumquodque">
+  <t s="1" l="4">unum</t>
+  <t s="5" l="7">quodque</t>
+</w>
+<w f="unusquisque">
+  <t s="1" l="4">unus</t>
+  <t s="5" l="7">quisque</t>
+</w>
+<w f="uobiscum">
+  <t s="1" l="5">uobis</t>
+  <t s="6" l="3">cum</t>
+</w>
+<w f="usquequaque">
+  <t s="1" l="5">usque</t>
+  <t s="6" l="6">quaque</t>
+</w>
+<w f="utine">
+  <t s="1" l="3">uti</t>
+  <t s="4" l="2">ne</t>
+</w>
+<w f="utpote">
+  <t s="1" l="2">ut</t>
+  <t s="3" l="4">pote</t>
+</w>
+<w f="utíne">
+  <t s="1" l="3">utí</t>
+  <t s="4" l="2">ne</t>
+</w>
+<w f="venerine">
+  <t s="1" l="6">veneri</t>
+  <t s="7" l="2">ne</t>
+</w>
+<w f="venistine">
+  <t s="1" l="7">venisti</t>
+  <t s="8" l="2">ne</t>
+</w>
+<w f="verumenimvero">
+  <t s="1" l="5">verum</t>
+  <t s="6" l="4">enim</t>
+  <t s="10" l="4">vero</t>
+</w>
+<w f="videone">
+  <t s="1" l="5">video</t>
+  <t s="6" l="2">ne</t>
+</w>
+<w f="vidine">
+  <t s="1" l="4">vidi</t>
+  <t s="5" l="2">ne</t>
+</w>
+<w f="vidistine">
+  <t s="1" l="7">vidisti</t>
+  <t s="8" l="2">ne</t>
+</w>
+<w f="vobiscum">
+  <t s="1" l="5">vobis</t>
+  <t s="6" l="3">cum</t>
+</w>
+<w f="Égone">
+  <t s="1" l="3">Égo</t>
+  <t s="4" l="2">ne</t>
+</w>
+<w f="Úsquequaque">
+  <t s="1" l="5">Úsque</t>
+  <t s="6" l="6">quaque</t>
+</w>
+<w f="égone">
+  <t s="1" l="3">égo</t>
+  <t s="4" l="2">ne</t>
+</w>
+<w f="úsquequaque">
+  <t s="1" l="5">úsque</t>
+  <t s="6" l="6">quaque</t>
+</w>
+</list>
