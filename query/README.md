@@ -30,16 +30,16 @@ The following table lists all possible search keys and their values:
 |-----|-----|-----|
 |token-based|`tok="urbem"`|this is a word form (UTF-8, NFC-normalized)|
 |token-based|`lemma="praesagium"`|lemmas (UTF-8, NFC-normalized) are lowercased in OLA v0.2.0|
-|token-based|`pos="v"`|part of speech; see values in morphology.md|
-|token-based|`person="2"`|morphological feature; see values in morphology.md|
-|token-based|`number="s"`|morphological feature; see values in morphology.md |
-|token-based|`tense="p"`|morphological feature; see values in morphology.md |
-|token-based|`mood="i"`|morphological feature; see values in morphology.md |
-|token-based|`voice="a"`|morphological feature; see values in morphology.md |
-|token-based|`gender="m"`|morphological feature; see values morphology.md |
-|token-based|`case="n"`|morphological feature; see values in morphology.md |
-|token-based|`degree="m"`|morphological feature; see values morphology.md |
-|token-based|`cts="1_2"`|  see values in table_keys_values.md |
+|token-based|`pos="v"`|part of speech; see values in `morphology.md`|
+|token-based|`person="2"`|morphological feature; see values in `morphology.md`|
+|token-based|`number="s"`|morphological feature; see values in `morphology.md` |
+|token-based|`tense="p"`|morphological feature; see values in `morphology.md` |
+|token-based|`mood="i"`|morphological feature; see values in `morphology.md` |
+|token-based|`voice="a"`|morphological feature; see values in `morphology.md` |
+|token-based|`gender="m"`|morphological feature; see values `morphology.md` |
+|token-based|`case="n"`|morphological feature; see values in `morphology.md` |
+|token-based|`degree="m"`|morphological feature; see values `morphology.md` |
+|token-based|`cts="1_2"`|  see values in `table_keys_values.md` |
 |token-based|`ipa01="/ˈdo.mus/"`| experimental IPA transcription (5th BCE Attic pronunciation); see examples from Wiktionary, such as <a href="https://en.wiktionary.org/wiki/domus#Latin">ἄξιοι</a>| 
 |text-based|`@* urn_cts="tlg0010.tlg001.perseus-grc2"`| see `table_keys_values.md` |
 |text-based|`@* urn_cts_author="phi0448"`| see values in `table_keys_values.md` |
