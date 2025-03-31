@@ -7,13 +7,12 @@ The syntax has been annotated following the guidelines:
 
 The list of the syntactic labels is: 
 SBJ, AuxY, PRED, ATV, ATR, AuxX, AuxC, AuxZ, OBJ, ADV, APOS, PNOM, COORD, AuxK,
-AuxP, AtvV, AuxV, ExD, OCOMP, AuxG, AuxΖ, MWE, AuxR, AuxΚ.
+AuxP, AtvV, AuxV, ExD, OCOMP, AuxG, AuxΖ, AuxΚ (mistaken labels found in the 
+treebank: "Aux", "XSEG", "_CO", "_ExD0_PRED_CO", "CO").
 
-Note that the `_CO` and `_AP` suffixes were deleted
-to reduce the number of the labels.
-Moreover, the root of a syntactic tree is only one token (therefore,
+Note that the root of a syntactic tree is only one token (therefore,
 punctuation marks, as well as other nodes,
-which in the original AGDT annotation scheme are
+which in the original AGLDT annotation scheme are
 dependents of the root, were made dependents of the first node
 that depends on the root,
 which usually corresponds to the main verb
