@@ -30,24 +30,23 @@ The following table lists all possible search keys and their values:
 |-----|-----|-----|
 |token-based|`tok="urbem"`|this is a word form (UTF-8, NFC-normalized)|
 |token-based|`lemma="praesagium"`|lemmas (UTF-8, NFC-normalized) are lowercased in OLA v0.2.0|
-|token-based|`pos="v"`|part of speech; see <a href="./OLA/query/morphology.md">values</a>|
-|token-based|`person="2"`|morphological feature; see <a href="./morphology.md">values</a>|
-|token-based|`number="s"`|morphological feature; see <a href="./morphology.md">values</a>|
-|token-based|`tense="p"`|morphological feature; see <a href="./morphology.md">values</a>|
-|token-based|`mood="i"`|morphological feature; see <a href="./morphology.md">values</a>|
-|token-based|`voice="a"`|morphological feature; see <a href="./morphology.md">values</a>|
-|token-based|`gender="m"`|morphological feature; see <a href="./morphology.md">values</a>|
-|token-based|`case="n"`|morphological feature; see <a href="./morphology.md">values</a>|
-|token-based|`degree="m"`|morphological feature; see <a href="./morphology.md">values</a>|
-|token-based|`cts="1_2"`|<a href="./cts_work_date.md#cts-urn">CTS structure for passage</a>; see <a href="./table_keys_values.md">values</a>|
-|token-based|`ipa01="/an.drá.si/"`| experimental IPA transcription (5th BCE Attic pronunciation); see examples from Wiktionary, such as <a href="https://en.wiktionary.org/wiki/%E1%BC%84%CE%BE%CE%B9%CE%BF%CE%B9#Ancient_Greek">ἄξιοι</a>| 
-|text-based|`@* urn_cts="tlg0010.tlg001.perseus-grc2"`| this identifies an <a href="./cts_work_date.md#cts-urn">author, work and edition</a>; see <a href="./table_keys_values.md">values</a>|
-|text-based|`@* urn_cts_author="tlg0010"`| this identifies an <a href="./cts_work_date.md#cts-urn">author</a>; see <a href="./table_keys_values.md">values</a>|
-|text-based|`@* urn_cts_work="tlg001"`| this identifies a <a href="./cts_work_date.md#cts-urn">work</a>; see <a href="./table_keys_values.md">values</a>|
-|text-based|`@* urn_cts_edition="perseus-grc2"`| this identifies an <a href="./cts_work_date.md#cts-urn">edition</a>; see <a href="./table_keys_values.md">values</a>|
-|text-based|`@* author="Isocrates"`| this identifies an <a href="./cts_work_date.md#cts-urn">author</a>; see <a href="./table_keys_values.md">values</a>|
-|text-based|`@* title="Against Euthynus"`| this identifies a <a href="./cts_work_date.md#cts-urn">work</a>; see <a href="./table_keys_values.md">values</a>|
-|text-based|`@* work_date="m1_2"`| <a href="./cts_work_date.md#work-dates">alleged work date</a>; see <a href="./table_keys_values.md">values</a> |
+|token-based|`pos="v"`|part of speech; see values in morphology.md|
+|token-based|`person="2"`|morphological feature; see values in morphology.md|
+|token-based|`number="s"`|morphological feature; see values in morphology.md |
+|token-based|`tense="p"`|morphological feature; see values in morphology.md |
+|token-based|`mood="i"`|morphological feature; see values in morphology.md |
+|token-based|`voice="a"`|morphological feature; see values in morphology.md |
+|token-based|`gender="m"`|morphological feature; see values morphology.md |
+|token-based|`case="n"`|morphological feature; see values in morphology.md |
+|token-based|`degree="m"`|morphological feature; see values morphology.md |
+|token-based|`cts="1_2"`|  see values in table_keys_values.md |
+|token-based|`ipa01="/ˈdo.mus/"`| experimental IPA transcription (5th BCE Attic pronunciation); see examples from Wiktionary, such as <a href="https://en.wiktionary.org/wiki/domus#Latin">ἄξιοι</a>| 
+|text-based|`@* urn_cts="tlg0010.tlg001.perseus-grc2"`| see `table_keys_values.md` |
+|text-based|`@* urn_cts_author="phi0448"`| see values in `table_keys_values.md` |
+|text-based|`@* urn_cts_work="phi001"`| see values in `table_keys_values.md` |
+|text-based|`@* urn_cts_edition="perseus-lat2"`| see values in `table_keys_values.md` |
+|text-based|`@* author="Julius Caesar"`| see values `table_keys_values.md` |
+|text-based|`@* title="Gallic War"`| see values in `table_keys_values.md`|
 
 ## ANNIS Query Examples
 
