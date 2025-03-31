@@ -30,7 +30,7 @@ The following table lists all possible search keys and their values:
 |-----|-----|-----|
 |token-based|`tok="urbem"`|this is a word form (UTF-8, NFC-normalized)|
 |token-based|`lemma="praesagium"`|lemmas (UTF-8, NFC-normalized) are lowercased in OLA v0.2.0|
-|token-based|`pos="v"`|part of speech; see <a href="/OLA/query/morphology.md">values</a>|
+|token-based|`pos="v"`|part of speech; see <a href="./OLA/query/morphology.md">values</a>|
 |token-based|`person="2"`|morphological feature; see <a href="./morphology.md">values</a>|
 |token-based|`number="s"`|morphological feature; see <a href="./morphology.md">values</a>|
 |token-based|`tense="p"`|morphological feature; see <a href="./morphology.md">values</a>|
