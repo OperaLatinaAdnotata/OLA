@@ -67,7 +67,7 @@ The following are query examples that can be used as templates:
 
 <tr>
 <td><a href="https://annis.varro.informatik.uni-leipzig.de/#_q=dG9rPS91cmJlW21zXS8gQCogdXJuX2N0c19hdXRob3I9InBoaTAxMTki&ql=aql&_c=b2xhX3YwLjIuMF8xLG9sYV92MC4yLjBfMg&cl=5&cr=5&s=0&l=10">pos="v" _ident_ cts=/3_.*/ @* author="Julius Caesar" _ident_ title="Gallic War"</a></td>
-<td>Find all verbs in the 3th Book of Homer's Iliad. Note that <code>_ident_</code> is
+<td>Find all verbs in the 3th Book of Caesar's Gallic War. Note that <code>_ident_</code> is
 used because the keys apply to the same token</td>
 </tr>
 
