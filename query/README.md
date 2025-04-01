@@ -40,7 +40,7 @@ The following table lists all possible search keys and their values:
 |token-based|`case="n"`|morphological feature; see values in `morphology.md` |
 |token-based|`degree="m"`|morphological feature; see values `morphology.md` |
 |token-based|`cts="1_2"`|  see values in `table_keys_values.md` |
-|token-based|`ipa01="/ˈdo.mus/"`| experimental IPA transcription (5th BCE Attic pronunciation); see examples from Wiktionary, such as <a href="https://en.wiktionary.org/wiki/domus#Latin">ἄξιοι</a>| 
+|token-based|`ipa01="/ˈdo.mus/"`| experimental IPA transcription (5th BCE Attic pronunciation); see examples from Wiktionary, such as <a href="https://en.wiktionary.org/wiki/domus#Latin">domus</a>| 
 |text-based|`@* urn_cts="tlg0010.tlg001.perseus-grc2"`| see `table_keys_values.md` |
 |text-based|`@* urn_cts_author="phi0448"`| see values in `table_keys_values.md` |
 |text-based|`@* urn_cts_work="phi001"`| see values in `table_keys_values.md` |
@@ -61,12 +61,12 @@ The following are query examples that can be used as templates:
   </thead>
   <tbody>
 <tr>
-<td><a href="">tok=/urbe[ms]/ @* urn_cts_author="phi0119"</a></td>
+<td><a href="https://annis.varro.informatik.uni-leipzig.de/ola020#_q=dG9rPS91cmJlW21zXS8gQCogdXJuX2N0c19hdXRob3I9InBoaTAxMTki&ql=aql&_c=b2xhX3YwLjIuMF8yLG9sYV92MC4yLjBfMQ&cl=5&cr=5&s=0&l=10">tok=/urbe[ms]/ @* urn_cts_author="phi0119"</a></td>
 <td>Search for the word form <code>urbem</code> or <code>urbes</code> in the author whose ID is phi0119  (note that a value included in // is a <a href="https://korpling.github.io/ANNIS/4/user-guide/aql/regex.html">regular expression</a>)</td>
 </tr>
 
 <tr>
-<td><a href="https://annis.varro.informatik.uni-leipzig.de/#_q=dG9rPS91cmJlW21zXS8gQCogdXJuX2N0c19hdXRob3I9InBoaTAxMTki&ql=aql&_c=b2xhX3YwLjIuMF8xLG9sYV92MC4yLjBfMg&cl=5&cr=5&s=0&l=10">pos="v" _ident_ cts=/3_.*/ @* author="Homer" _ident_ title="Iliad"</a></td>
+<td><a href="https://annis.varro.informatik.uni-leipzig.de/#_q=dG9rPS91cmJlW21zXS8gQCogdXJuX2N0c19hdXRob3I9InBoaTAxMTki&ql=aql&_c=b2xhX3YwLjIuMF8xLG9sYV92MC4yLjBfMg&cl=5&cr=5&s=0&l=10">pos="v" _ident_ cts=/3_.*/ @* author="Julius Caesar" _ident_ title="Gallic War"</a></td>
 <td>Find all verbs in the 3th Book of Homer's Iliad. Note that <code>_ident_</code> is
 used because the keys apply to the same token</td>
 </tr>
