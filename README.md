@@ -1,11 +1,27 @@
 # Opera Latina Adnotata v0.2.0
 
-This repository contains the largest open access annotated collection
+This repository contains the largest open access annotated corpus
 of Latin texts, **Opera Latina Adnotata** (base texts: 736 files
 and 17,919,596 tokens) 🏋️❤️😃.
 
-Because of the large corpus size, the data are made available on Zenodo,
-while the present repository allows tracking issues.
+The base texts come from the following repositories:
+
+* [canonical-latinLit](https://github.com/PerseusDL/canonical-latinLit/releases/tag/0.0.12144726697)
+* [csel-dev](https://github.com/OpenGreekAndLatin/csel-dev/releases/tag/0.0.3678995538)
+* [Latin](https://github.com/OpenGreekAndLatin/Latin/releases/tag/v1.14.0)
+* [digiliblt](https://github.com/lascivaroma/digiliblt/releases/tag/0.0.67)
+* [priapea](https://github.com/lascivaroma/priapeia/releases/tag/1.1.18)
+* [additional-texts](https://github.com/lascivaroma/additional-texts/releases/tag/1.0.195)
+
+Because of the large corpus size, the data is made available on Zenodo at:
+
+* to-add
+
+and can be queried at:
+
+* [https://annis.varro.informatik.uni-leipzig.de/ola020](https://annis.varro.informatik.uni-leipzig.de/ola020)
+
+The present repository allows updates and tracking issues.
 
 The original Latin texts
 have been tokenized, sentence-segmented, and morphosyntactically
@@ -15,10 +31,10 @@ The repository is organized as follows (further details within each folder):
 1. `abbreviations` contains a file useful for tokenization.
 2. `annotation_example` contains an unzipped example of the
 annotation layers, which is useful for inspection.
-3. `tokenize` contains files used for tokenization
-4. `urn_cts` contains files with bibliographic information about the texts.
-5. `query` contains documentation to query the corpus in
+3. `query` contains documentation to query the corpus in
 [ANNIS](https://annis.varro.informatik.uni-leipzig.de/ola020).
+4. `tokenize` contains files used for tokenization
+5. `urn_cts` contains files with bibliographic information about the texts.
 
 ## Citation
 
