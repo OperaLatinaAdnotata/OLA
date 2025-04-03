@@ -23,7 +23,8 @@ The metadata concerning CTS URNs (including author names and work titles)
 were retrieved automatically from the
 texts. This means that their values may contain
 inconsistencies and errors, which can also be found
-in the [table](./table_keys_values.md).
+in the [table](./table_keys_values.md). The errors should be reported
+as issues in the corresponding repositories.
 
 The field `cts` refers to a passage inside a work. In the
 [table](./table_keys_values.md), the column `cts` tries to provide

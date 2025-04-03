@@ -12,7 +12,7 @@ values shown in the table below.
     <th>explanation</th>
   </tr>
   <tr>
-    <td rowspan="15">pos</td>
+    <td rowspan="13">pos</td>
     <td>n</td>
     <td>noun</td>
 
@@ -88,7 +88,7 @@ values shown in the table below.
 
 
   <tr>
-    <td rowspan="3">number</td>
+    <td rowspan="2">number</td>
     <td>s</td>
     <td>singular</td>
 
@@ -101,7 +101,7 @@ values shown in the table below.
 
 
   <tr>
-    <td rowspan="7">tense</td>
+    <td rowspan="6">tense</td>
     <td>p</td>
     <td>present</td>
 
@@ -131,7 +131,7 @@ values shown in the table below.
 
 
   <tr>
-    <td rowspan="7">mood</td>
+    <td rowspan="8">mood</td>
     <td>i</td>
     <td>indicative</td>
   </tr>
@@ -167,7 +167,7 @@ values shown in the table below.
 
 
   <tr>
-    <td rowspan="4">voice</td>
+    <td rowspan="3">voice</td>
     <td>a</td>
     <td>active</td>
   </tr>
@@ -183,7 +183,7 @@ values shown in the table below.
 
 
   <tr>
-    <td rowspan="4">gender</td>
+    <td rowspan="3">gender</td>
     <td>m</td>
     <td>masculine</td>
   </tr>
@@ -198,7 +198,7 @@ values shown in the table below.
 
 
   <tr>
-    <td rowspan="6">case</td>
+    <td rowspan="7">case</td>
     <td>n</td>
     <td>nominative</td>
   </tr>
@@ -229,7 +229,7 @@ values shown in the table below.
 
 
   <tr>
-    <td rowspan="2">degree</td>
+    <td rowspan="3">degree</td>
     <td>c</td>
     <td>comparative</td>
   </tr>
