@@ -35,7 +35,7 @@ The present repository allows updates and tracking issues. The corpus can be que
 7. work title
 8. (experimental) IPA transcription of word forms (the Classical Latin one)
 
-The morphosyntactic annotation has been performed using Latinpipe, whose model
+The morphosyntactic annotation was performed using Latinpipe, whose model
 can be dowloaded from [Hugging Face](https://huggingface.co/bowphs/latinpipe-evalatin/tree/main)
 (thanks to F. Riemenschneider).
 The test set results are:
