@@ -1,8 +1,10 @@
 # Opera Latina Adnotata v0.2.0
 
 This repository contains the largest open access annotated corpus
-of Latin texts, **Opera Latina Adnotata** (base texts: 736 files
-and 17,919,596 tokens) 🏋️❤️😃.
+of Latin texts, **Opera Latina Adnotata** 🏋️❤️😃:
+
+* number of base texts: 736, each corresponding to an ancient work
+* number of tokens: 17,919,596
 
 The base texts come from the following repositories:
 
@@ -23,9 +25,33 @@ and can be queried at:
 
 The present repository allows updates and tracking issues.
 
-The original Latin texts
-have been tokenized, sentence-segmented, and morphosyntactically
-annotated using a standoff format (PAULA XML).
+The corpus can be queried by:
+
+1. word form (i.e., token)
+2. lemma
+3. morphology (POS and morphological features)
+4. syntax (dependency syntax following the AGDT annotation scheme)
+5. CTS URN for work, author, and edition
+6. CTS passage for each work (e.g., "book", "section", etc.) 
+6. author name
+7. work title
+8. (experimental) IPA transcription of word forms (the 5th-century BCE Attic ones)
+
+The morphosyntactic annotation has been performed using Latinpipe, whose model
+can be dowloaded on [Hugging Face](https://huggingface.co/bowphs/latinpipe-evalatin/tree/main).
+The test set results are:
+
+|POS|Feats|ALLTags|UAS|LAS|Lemmas|
+|-----|----|----|----|----|----|
+|97.15|93.30|91.53|84.10|77.53|91.38|
+
+The annotations for CTS URN, CTS passage, author name, and work title were
+retrieved automatically from the original texts (and therefore they may
+contain errors and inconsistencies).
+
+The IPA transcription is based on a ByT5 model that achieved an accuracy
+of **0.83** (correct IPA transcriptions) on Greek and Latin data 
+from Wiktionary. The IPA transcription is the "Classical Latin" one.
 
 The repository is organized as follows (further details within each folder):
 1. `abbreviations` contains a file useful for tokenization.
@@ -33,8 +59,10 @@ The repository is organized as follows (further details within each folder):
 annotation layers, which is useful for inspection.
 3. `query` contains documentation to query the corpus in
 [ANNIS](https://annis.varro.informatik.uni-leipzig.de/ola020).
-4. `tokenize` contains files used for tokenization
+4. `tokenize` contains files used for tokenization.
 5. `urn_cts` contains files with bibliographic information about the texts.
+
+
 
 ## Citation
 
@@ -80,4 +108,4 @@ src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br/>
 This work is licensed under a <a rel="license" 
 href="http://creativecommons.org/licenses/by-sa/4.0/">
 Creative Commons Attribution-ShareAlike 4.0 International License</a> (for more
-details, look also at the repositories of the original texts mentioned above).
+details, look also at the repositories of the base texts mentioned above).
