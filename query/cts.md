@@ -17,7 +17,7 @@ for the work with CTS URN `phi0588.abo014.perseus-lat2` are, respectively,
 and `Datames` (check it
 in the [table](./table_keys_values.md)).
 
-## CTS URN
+## CTS Structure
 
 The metadata concerning CTS URNs (including author names and work titles)
 were retrieved automatically from the
