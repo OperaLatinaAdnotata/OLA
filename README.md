@@ -3,8 +3,8 @@
 This repository contains the largest open access annotated corpus
 of Latin texts, **Opera Latina Adnotata** 🏋️❤️😃:
 
-* number of base texts: 736, each corresponding to an ancient work
-* number of tokens: 17,919,596
+* number of base texts: 736, each corresponding to an ancient work.
+* number of tokens: 17,919,596.
 
 The base texts come from the following repositories:
 
@@ -23,9 +23,7 @@ and can be queried at:
 
 * [https://annis.varro.informatik.uni-leipzig.de/ola020](https://annis.varro.informatik.uni-leipzig.de/ola020)
 
-The present repository allows updates and tracking issues.
-
-The corpus can be queried by:
+The present repository allows updates and tracking issues. The corpus can be queried by:
 
 1. word form (i.e., token)
 2. lemma
@@ -35,10 +33,11 @@ The corpus can be queried by:
 6. CTS passage for each work (e.g., "book", "section", etc.) 
 6. author name
 7. work title
-8. (experimental) IPA transcription of word forms (the 5th-century BCE Attic ones)
+8. (experimental) IPA transcription of word forms (the Classical Latin one)
 
 The morphosyntactic annotation has been performed using Latinpipe, whose model
-can be dowloaded on [Hugging Face](https://huggingface.co/bowphs/latinpipe-evalatin/tree/main).
+can be dowloaded from [Hugging Face](https://huggingface.co/bowphs/latinpipe-evalatin/tree/main)
+(thanks to F. Riemenschneider).
 The test set results are:
 
 |POS|Feats|ALLTags|UAS|LAS|Lemmas|
