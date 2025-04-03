@@ -8,7 +8,7 @@ The [table](./table_keys_values.md) shows the values for the keys:
 * urn_cts_edition
 * author
 * title
-* cts
+* cts (structure)
 
 For example, the values for `urn_cts`, `urn_cts_author`, `urn_cts_work`,
 `urn_cts_edition`, `author`, and `title`
