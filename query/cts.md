@@ -8,7 +8,7 @@ The [table](./table_keys_values.md) shows the values for the keys:
 * urn_cts_edition
 * author
 * title
-* cts (structure)
+* cts
 
 For example, the values for `urn_cts`, `urn_cts_author`, `urn_cts_work`,
 `urn_cts_edition`, `author`, and `title`
@@ -17,7 +17,7 @@ for the work with CTS URN `phi0588.abo014.perseus-lat2` are, respectively,
 and `Datames` (check it
 in the [table](./table_keys_values.md)).
 
-## CTS Structure
+## CTS (Structure)
 
 The metadata concerning CTS URNs (including author names and work titles)
 were retrieved automatically from the
