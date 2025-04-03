@@ -9,27 +9,27 @@ folder document the admissible keys and values.
 ## ANNIS 4
 
 Annis query language is documented 
-on https://korpling.github.io/ANNIS/4/user-guide/aql/index.html. 
+at https://korpling.github.io/ANNIS/4/user-guide/aql/index.html. 
 What is important to undestand for querying in ANNIS 4
 is that there are two
 kinds of annotation that two kinds of syntax correspond to: 
 the annotation associated with single tokens (*token-based*) and 
 the annotation associated with all tokens of a text (*text-based*, 
-known also as metadata field). For example, the field `author`
+known also as *metadata field*). For example, the field `author`
 is the same for all tokens of a text and therefore is a metadata field. 
 
 In ANNIS 4, annotations associated with single tokens (token-based) are simply
 searched using key/value pairs, such as `tok="urbem"` or 
 `lemma="praesagium"`. Metadata fields are also accessed through key/value pairs, 
 but are introduced by the operator `@*` (e.g., `@* urn_cts_author="tlg0010"`).
-For more clarification, [query examples](#annis-query-examples) are provided below as templates.
-
-The following table lists all possible search keys and their values:
+For more clarification, [query examples](#annis-query-examples) are 
+provided below as templates. The following table lists 
+all possible search keys and their values:
 
 |type of annotation|syntax|comment/values|
 |-----|-----|-----|
 |token-based|`tok="urbem"`|this is a word form (UTF-8, NFC-normalized)|
-|token-based|`lemma="praesagium"`|lemmas (UTF-8, NFC-normalized) are lowercased in OLA v0.2.0|
+|token-based|`lemma="praesagium"`|lemmas (UTF-8, NFC-normalized)|
 |token-based|`pos="v"`|part of speech; see values in `morphology.md`|
 |token-based|`person="2"`|morphological feature; see values in `morphology.md`|
 |token-based|`number="s"`|morphological feature; see values in `morphology.md` |
@@ -41,7 +41,7 @@ The following table lists all possible search keys and their values:
 |token-based|`degree="m"`|morphological feature; see values `morphology.md` |
 |token-based|`cts="1_2"`|  see values in `table_keys_values.md` |
 |token-based|`ipa01="/ˈdo.mus/"`| experimental IPA transcription (5th BCE Attic pronunciation); see examples from Wiktionary, such as <a href="https://en.wiktionary.org/wiki/domus#Latin">domus</a>| 
-|text-based|`@* urn_cts="tlg0010.tlg001.perseus-grc2"`| see `table_keys_values.md` |
+|text-based|`@* urn_cts="phi0448.phi001.perseus-lat2"`| see `table_keys_values.md` |
 |text-based|`@* urn_cts_author="phi0448"`| see values in `table_keys_values.md` |
 |text-based|`@* urn_cts_work="phi001"`| see values in `table_keys_values.md` |
 |text-based|`@* urn_cts_edition="perseus-lat2"`| see values in `table_keys_values.md` |
@@ -62,12 +62,12 @@ The following are query examples that can be used as templates:
   <tbody>
 <tr>
 <td><a href="https://annis.varro.informatik.uni-leipzig.de/ola020#_q=dG9rPS91cmJlW21zXS8gQCogdXJuX2N0c19hdXRob3I9InBoaTAxMTki&ql=aql&_c=b2xhX3YwLjIuMF8yLG9sYV92MC4yLjBfMQ&cl=5&cr=5&s=0&l=10">tok=/urbe[ms]/ @* urn_cts_author="phi0119"</a></td>
-<td>Search for the word form <code>urbem</code> or <code>urbes</code> in the author whose ID is phi0119  (note that a value included in // is a <a href="https://korpling.github.io/ANNIS/4/user-guide/aql/regex.html">regular expression</a>)</td>
+<td>Search for the word form <code>urbem</code> or <code>urbes</code> in the author whose `urn_cts_author` value is phi0119  (note that a value included in // is a <a href="https://korpling.github.io/ANNIS/4/user-guide/aql/regex.html">regular expression</a>)</td>
 </tr>
 
 <tr>
 <td><a href="https://annis.varro.informatik.uni-leipzig.de/#_q=cG9zPSJ2IiBfaWRlbnRfIGN0cz0vM18uKi8gQCogYXV0aG9yPSJKdWxpdXMgQ2Flc2FyIiBfaWRlbnRfIHRpdGxlPSJHYWxsaWMgV2FyIg&ql=aql&_c=b2xhX3YwLjIuMF8xLG9sYV92MC4yLjBfMg&cl=5&cr=5&s=0&l=10">pos="v" _ident_ cts=/3_.*/ @* author="Julius Caesar" _ident_ title="Gallic War"</a></td>
-<td>Find all verbs in the 3th Book of Caesar's Gallic War. Note that <code>_ident_</code> is
+<td>Search for all verbs in the 3th Book of Caesar's Gallic War. Note that <code>_ident_</code> is
 used because the keys apply to the same token</td>
 </tr>
 
@@ -79,7 +79,7 @@ used because the keys apply to the same token</td>
 
 <tr>
 <td><a href="https://annis.varro.informatik.uni-leipzig.de/#_q=cG9zPSJ2IiBfaWRlbnRfIG1vb2Q9ImkiIC0-ZGVwW2RlcF9mbmM9Ik9CSiJdIHBvcz0ibiIgJiAjMyAuMSwzICMy&ql=aql&_c=b2xhX3YwLjIuMF8xLG9sYV92MC4yLjBfMg&cl=5&cr=5&s=0&l=10">pos="v" _ident_ mood="i" ->dep[dep_fnc="OBJ"] pos="n" & #3 .1,3 #2 </a></td>
-<td>Search for a verb in the indicative mood that governs a noun that bears the OBJ syntactic function, and the noun is before the verb within the range of 3 tokens.
+<td>Search for all verbs in the indicative mood that govern a noun that bears the OBJ syntactic function, and the noun is before the verb within the range of 3 tokens.
 Note that <code>#3</code> refers to <code>pos="n"</code> and
 <code>#2</code> to <code>mood="i"</code>.</td>
 </tr>
@@ -98,9 +98,8 @@ it could sometimes last for many seconds/minutes
 (especially if regular expressions are used).
 
 During the search time, users cannot further
-interact with Annis (the Search button cannot be clicked again,
-as shown in the picture below) and should wait
+interact with Annis (the "Search" button cannot be clicked again) and should wait
 until the results are returned 
 (when this happens, 
 the "Searching..." message is substituted with the number of matches and
-the Search button can be used again).
+the "Search" button can be used again).
