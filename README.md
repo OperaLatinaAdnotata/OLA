@@ -30,7 +30,7 @@ The present repository allows updates and tracking issues. The corpus can be que
 3. morphology (POS and morphological features)
 4. syntax (dependency syntax following the AGDT annotation scheme)
 5. CTS URN for work, author, and edition
-6. CTS passage for each work (e.g., "book", "section", etc.) 
+6. CTS structure for each work (e.g., "book", "section", etc.) 
 6. author name
 7. work title
 8. (experimental) IPA transcription of word forms (the Classical Latin one)
@@ -44,7 +44,7 @@ The test set results are:
 |-----|----|----|----|----|----|
 |97.15|93.30|91.53|84.10|77.53|91.38|
 
-The annotations for CTS URN, CTS passage, author name, and work title were
+The annotations for CTS URN, CTS structure, author name, and work title were
 retrieved automatically from the original texts (and therefore they may
 contain errors and inconsistencies).
 
