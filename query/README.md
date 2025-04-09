@@ -90,7 +90,7 @@ Note that <code>#3</code> refers to <code>pos="n"</code> and
 
 In the ANNIS interface, OLA appears divided into 2 subcorpora
 for performance reasons.
-All of them should be selected to query the whole corpus. After clicking on
+All of them should be selected to query the whole corpus (see image below). After clicking on
 the "Search" button, the "Searching..." message appears:
 it usually disappear in a few seconds, 
 but depending on the complexity of the query,
