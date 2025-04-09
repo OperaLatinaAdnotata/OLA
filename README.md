@@ -3,8 +3,8 @@
 This repository contains the largest open access annotated corpus
 of Latin texts, **Opera Latina Adnotata** 🏋️❤️😃:
 
-* number of base texts: 736, each corresponding to an ancient work.
-* number of tokens: 17,919,596.
+* number of base texts: 736, each corresponding to an ancient work
+* number of tokens: 17,919,596
 
 The base texts come from the following repositories:
 
