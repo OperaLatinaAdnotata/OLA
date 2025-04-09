@@ -103,3 +103,5 @@ until the results are returned
 (when this happens, 
 the "Searching..." message is substituted with the number of matches and
 the "Search" button can be used again).
+
+(./images/screenshot1.png)
