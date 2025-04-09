@@ -67,7 +67,7 @@ annotation layers, which is useful for inspection.
 
 ```
 Giuseppe G. A. Celano. 2025. Opera Latina Adnotata (v0.2.0). Zenodo.
-https:   ...
+https://doi.org/10.5281/zenodo.15183688.
 ```
 
 ```
@@ -77,8 +77,8 @@ title =     {Opera Latina Adnotata},
 year =      {2025},
 publisher = {Zenodo},
 version =   {v0.2.0},
-doi =       {...},
-url =       {...}
+doi =       {10.5281/zenodo.15183688},
+url =       {https://doi.org/10.5281/zenodo.15183688}
 }
 ```
 ## Contact
