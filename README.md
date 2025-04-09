@@ -30,7 +30,7 @@ The present repository allows updates and tracking issues. The corpus can be que
 3. morphology (POS and morphological features)
 4. syntax (dependency syntax following the AGDT annotation scheme)
 5. CTS URN for work, author, and edition
-6. CTS structure for each work (e.g., "book", "section", etc.) 
+6. CTS structure for each work (e.g., "book," "section," etc.) 
 6. author name
 7. work title
 8. (experimental) IPA transcription of word forms (the Classical Latin one)
