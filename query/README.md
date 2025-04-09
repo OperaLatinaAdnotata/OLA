@@ -62,7 +62,7 @@ The following are query examples that can be used as templates:
   <tbody>
 <tr>
 <td><a href="https://annis.varro.informatik.uni-leipzig.de/ola020#_q=dG9rPS91cmJlW21zXS8gQCogdXJuX2N0c19hdXRob3I9InBoaTAxMTki&ql=aql&_c=b2xhX3YwLjIuMF8yLG9sYV92MC4yLjBfMQ&cl=5&cr=5&s=0&l=10">tok=/urbe[ms]/ @* urn_cts_author="phi0119"</a></td>
-<td>Search for the word form <code>urbem</code> or <code>urbes</code> in the author whose <code>urn_cts_author</code> value is phi0119  (note that a value included in // is a <a href="https://korpling.github.io/ANNIS/4/user-guide/aql/regex.html">regular expression</a>)</td>
+<td>Search for the word form <code>urbem</code> or <code>urbes</code> in the author whose <code>urn_cts_author</code> value is <code>phi0119</code>  (note that a value included in // is a <a href="https://korpling.github.io/ANNIS/4/user-guide/aql/regex.html">regular expression</a>)</td>
 </tr>
 
 <tr>
