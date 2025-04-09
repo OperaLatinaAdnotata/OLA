@@ -40,7 +40,7 @@ all possible search keys and their values:
 |token-based|`case="n"`|morphological feature; see values in `morphology.md` |
 |token-based|`degree="m"`|morphological feature; see values `morphology.md` |
 |token-based|`cts="1_2"`|  see values in `table_keys_values.md` |
-|token-based|`ipa01="/ˈdo.mus/"`| experimental IPA transcription (5th BCE Attic pronunciation); see examples from Wiktionary, such as <a href="https://en.wiktionary.org/wiki/domus#Latin">domus</a>| 
+|token-based|`ipa01="/ˈdo.mus/"`| experimental IPA transcription ("Classical Latin"); see examples from Wiktionary, such as <a href="https://en.wiktionary.org/wiki/domus#Latin">domus</a>| 
 |text-based|`@* urn_cts="phi0448.phi001.perseus-lat2"`| see `table_keys_values.md` |
 |text-based|`@* urn_cts_author="phi0448"`| see values in `table_keys_values.md` |
 |text-based|`@* urn_cts_work="phi001"`| see values in `table_keys_values.md` |
