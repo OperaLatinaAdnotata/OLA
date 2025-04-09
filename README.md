@@ -84,7 +84,7 @@ url =       {...}
 ## Contact
 Dr. Giuseppe G. A. Celano<br/>
 Universität Leipzig<br/>
-Institute of Computer Science, NLP<br/>
+Institute of Computer Science<br/>
 Augustusplatz 10<br/>
 04109 Leipzig<br/>
 Deutschland<br/>
