@@ -104,4 +104,4 @@ until the results are returned
 the "Searching..." message is substituted with the number of matches and
 the "Search" button can be used again).
 
-!(./images/screenshot1.png)
+![](./images/screenshot1.png)
