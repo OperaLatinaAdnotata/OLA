@@ -14,7 +14,7 @@ For example, the values for `urn_cts`, `urn_cts_author`, `urn_cts_work`,
 `urn_cts_edition`, `author`, and `title`
 for the work with CTS URN `phi0588.abo014.perseus-lat2` are, respectively,
 `phi0588.abo014.perseus-lat2`, `phi0588`, `abo014`, `perseus-lat2`, `Nepos, Cornelius`,
-and `Datames` (check it
+and `Datames` (check it out
 in the [table](./table_keys_values.md)).
 
 ## CTS (Structure)
