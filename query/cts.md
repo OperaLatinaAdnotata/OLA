@@ -24,7 +24,7 @@ were retrieved automatically from the original
 texts. This means that their values may contain
 inconsistencies and errors, which can also be found
 in the [table](./table_keys_values.md). The errors should be reported
-as issues in the corresponding repositories (see [README.md](../README.md)).
+as issues in the corresponding repositories (see links in [README.md](../README.md)).
 
 The field `cts` refers to a passage inside a work. In the
 [table](./table_keys_values.md), the column `cts` tries to provide
