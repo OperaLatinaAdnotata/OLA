@@ -17,7 +17,7 @@ The base texts come from the following repositories:
 
 Because of the large corpus size, the data is made available on Zenodo at:
 
-* to-add
+* [https://doi.org/10.5281/zenodo.15183688](https://doi.org/10.5281/zenodo.15183688)
 
 and can be queried at:
 
